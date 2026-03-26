@@ -2,6 +2,12 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <img align="right" height="232" src="https://img.wattpad.com/b31091e54cf729015899b7080aba4e399c03381f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f674d4542704343703162553759673d3d2d3832353332383430312e313565376366646135303734616436343930343934383531393235332e676966"  />
 
 ###
@@ -22,11 +28,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabysAp/GabysAp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabysAp/GabysAp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabysAp/GabysAp/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/GabysAp/GabysAp/output/snake.svg" alt="Snake animation" />
 
 ###
 
